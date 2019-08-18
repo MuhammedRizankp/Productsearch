@@ -1,0 +1,24 @@
+.form{
+  border-color: black;
+  margin-top: 3%;
+  margin-left: 38%;
+}
+.products{
+  margin-left:38%;
+  margin-top: 1%;
+  text-align: left;
+  border-collapse: collapse;
+  background-color:cadetblue;
+  border-radius: 1cm;
+  width:6.4cm;
+  z-index: -1;
+  box-shadow: 10px 10px 10px grey;
+  padding: .25cm;
+}
+th,td{
+  padding: .5cm;
+  color: black;
+  
+  width: 2.3cm;
+  
+}
